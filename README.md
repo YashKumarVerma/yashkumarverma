@@ -1,31 +1,42 @@
 ![Cover Banner](https://raw.githubusercontent.com/yashkumarverma/yashkumarverma/master/assets/banner.png)
 <h3 align="center">Hello there, I'm Yash 👋</h3>
 <h5 align="center">
-    <a href="https://yashkumarverma.github.io/" target="_BLANK">View my Portfolio, Blogs and Projects</a>
+    <a href="https://yashkumarverma.github.io/" target="_BLANK">View my Portfolio, Blogs and Projects</a>, 
 </h5>
+
 <br>
 <p align="center">
+    <a href="https://bit.ly/yashkumarverma"> Open Resume </a>
+</p>
+<p align="center"> 
+  <br> 
   I'm Yash from India. I fell in love with computers, programming and technology when I was 15 y/o, and since then it has been an exciting journey.
   <br>
+
+   <br>
+  🔬 I'm currently studying for a bachelor's's degree in Computer Science at VIT University, batch of '23
   <br>
-  🔬 I'm currently studying for a bachelor's's degree in Computer Science at VIT University
-  <br>
-  💻 I'm passionate about problem solving, cloud, and ever ready for innovative projects ! 
+  💻 Lots of projects, full-stack developer, loves cloud and CLIs
   <br>
   📫 How to reach me: <a href="mailto: yk.verma2000@gmail.com">yk.verma2000@gmail.com</a>
   <br>
-
-  **Current Status** : Google Summer of Code @camicroscope
 </p>
+
+**Current Status** : <a href="https://fampay.in/">Fampay Engineering, working on fintech</a>, <a href="https://bit.ly/yashkumarverma"> view resume </a> <br />
+**Current side project** : Writing a SaaS around data mocking and realtime monitoring <br />
+**Currently learning** : python, django, reading <a href="https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/">Designing Data-Intensive Applications</a>
 
 <hr>
 
+<!--
 <p align=center >
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
     <img height=175 align="center" src="https://github-readme-stats-lac-five.vercel.app/api?username=yashkumarverma&count_private=true&show_icons=true&include_all_commits=true&theme=gotham">
   </a>
 </p>
+-->
 
+<i>Excuse the inactivity on github, work related commits are on company gitlab. 
 <hr>
 
 [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yk.verma2000)
