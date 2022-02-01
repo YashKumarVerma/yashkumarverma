@@ -6,7 +6,7 @@
 
 <br>
 <p align="center">
-    <a href="https://bit.ly/yashkumarverma"> Open Resume </a>
+    <a href="https://bit.ly/yashkumarverma"> Open Resume </a>, checkout current side project: <a href="https://github.com/sasta-sa">SaaS for data mocking</a>
 </p>
 <p align="center"> 
   <br> 
